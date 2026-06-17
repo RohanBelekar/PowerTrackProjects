@@ -8,7 +8,7 @@ on:
 
 defaults:
   run:
-    working-directory: ./Lexical_Analzyer
+    working-directory: ./Lexical_Analyzer
 
 jobs:
   build:
